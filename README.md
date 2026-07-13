@@ -5,7 +5,7 @@
 
 Official Python SDK for [Hakim](https://tryhakim.ai) — Arabic-first TTS,
 STT, voice cloning, webhooks, and batch jobs. Mirrors the surface of the
-Node SDK (`@hakim/voice`).
+Node SDK (`@tryhakim/voice`).
 
 ## Install
 
